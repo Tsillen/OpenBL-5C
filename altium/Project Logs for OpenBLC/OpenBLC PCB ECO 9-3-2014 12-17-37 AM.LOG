@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=P? NewDesignator=P2
+Added Pin To Net: NetName=NetC2_2 Pin=R1-2
+Added Pin To Net: NetName=NetC2_2 Pin=R3-1
+Change Net Name : Old Net Name=NetC1_1 New Net Name=VBAT
+Change Net Name : Old Net Name=NetC2_1 New Net Name=5VDC
+Change Net Name : Old Net Name=NetC5_1 New Net Name=3.3VDC
+Added Member To Class: ClassName=OpenBLC_CONNECTIONS Member=Component P2 Interface Connector
+Added Room: Name=OpenBLC_CONNECTIONS
+Added Room: Name=OpenBLC_TPS61230
+Added Room: Name=OpenBLC_TPS62152
