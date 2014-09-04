@@ -1,27 +1,22 @@
-Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~OpenBLC.PrjPcb|ReportField=ProjectFullPath~C:\Users\Spikee\Documents\GitHub\OpenBL-5C\altium\OpenBLC.PrjPcb|ReportField=Title~Bill of Materials For Project [OpenBLC.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~35|ReportField=ReportTime~4:43:07 PM|ReportField=ReportDate~9/4/2014|ReportField=ReportDateTime~9/4/2014 4:43:07 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~9/4/2014|ReportField=CurrentTime~4:37:27 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Spikee\Documents\GitHub\OpenBL-5C\altium\OpenBLC_CONNECTIONS.SchDoc|ReportField=DocumentName~OpenBLC_CONNECTIONS.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~9/4/2014|ReportField=Organization~|ReportField=ProjectName~OpenBLC.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~OpenBLC.PrjPcb|ReportField=DataSourceFullPath~C:\Users\Spikee\Documents\GitHub\OpenBL-5C\altium\OpenBLC.PrjPcb
-C2012X5R0J226M125AC|CAP CER 22UF 6.3V 20% X5R 0805|C1, C5, C8|0805|C2012X5R0J226M125AC|3
-C0603C180J5GACTU|Meerlaagse keramische condensatoren MLCC - SMD/SMT 50volts 18pF C0G 5%|C2|0603|C0603C180J5GACTU|1
-CL10A106MQ8NNNC|CAP CER 10UF 6.3V 20% X5R 0603|C3, C4|0603|CL10A106MQ8NNNC|2
-GRM033R71C391KA01D|Meerlaagse keramische condensatoren MLCC - SMD/SMT 390pF 16 volts 10%|C6|0603|GRM033R71C391KA01D|1
-GRM21BR61A106KE19L|MURATA - GRM21BR61A106KE19L - CAPACITOR, CERA, 10UF, 10%, 10V, 10%, SMD|C7|0805|GRM21BR61A106KE19L|1
-0603_LED||D1|0603 _DIODE|0603_LED|1
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~OpenBLC.PrjPcb|ReportField=ProjectFullPath~C:\Users\Spikee\Documents\GitHub\OpenBL-5C\altium\OpenBLC.PrjPcb|ReportField=Title~Bill of Materials For Project [OpenBLC.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~39|ReportField=ReportTime~8:28:36 PM|ReportField=ReportDate~9/4/2014|ReportField=ReportDateTime~9/4/2014 8:28:36 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~9/4/2014|ReportField=CurrentTime~8:17:38 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Spikee\Documents\GitHub\OpenBL-5C\altium\OpenBLC_CONNECTIONS.SchDoc|ReportField=DocumentName~OpenBLC_CONNECTIONS.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~9/4/2014|ReportField=Organization~|ReportField=ProjectName~OpenBLC.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~OpenBLC.PrjPcb|ReportField=DataSourceFullPath~C:\Users\Spikee\Documents\GitHub\OpenBL-5C\altium\OpenBLC.PrjPcb
+C2012X5R0J226M125AC|CAP CER 22UF 6.3V 20% X5R 0805|C1, C5, C8|0805_CAP|C2012X5R0J226M125AC|3
+C0603C180J5GACTU|Meerlaagse keramische condensatoren MLCC - SMD/SMT 50volts 18pF C0G 5%|C2|0603_CAP|C0603C180J5GACTU|1
+GRM21BR61A106KE19L|MURATA - GRM21BR61A106KE19L - CAPACITOR, CERA, 10UF, 10%, 10V, 10%, SMD|C3, C4, C7|0805_CAP|GRM21BR61A106KE19L|3
+GRM033R71C391KA01D|Meerlaagse keramische condensatoren MLCC - SMD/SMT 390pF 16 volts 10%|C6|0603_CAP|GRM033R71C391KA01D|1
+0805_CAP||C9|0805_CAP|0805_CAP|1
+0603LED_YE||D1|0603 _DIODE_YE|0603LED_YE|1
+0603LED_GR||D2|0603 _DIODE_GR|0603LED_GR|1
 SRU1028-1R0Y|Vaste smoorspoelen 1uH 30% SMD 1028|L1|SRU1028|SRU1028-1R0Y|1
 SDR0403-2R2ML|Vaste smoorspoelen 2.2uH 20% SMD 0403|L2|SDR0403|SDR0403-2R2ML|1
 Nokia 3pin pogo connector||P1||Nokia_3PIN_BATT_CONTACT|1
-Interface Connector|Header, 6-Pin, Dual row|P2|HDR2X6|Header 6X2|1
-FDN306P|MOSFET P-Ch PowerTrench Specified 1.8V|Q1, Q2||FDN306P|2
-CRCW0402402KFKED|VISHAY DRALORIC - CRCW0402402KFKED - RESISTOR, 0402, 402K, 1%|R1|0402|CRCW0402402KFKED|1
-GRM155R71C153KA01D|Meerlaagse keramische condensatoren MLCC - SMD/SMT 0402 0.015uF 16volts X7R 10%|R2|0402|GRM155R71C153KA01D|1
-CRCW0402100KFKEDHP|VISHAY DRALORIC - CRCW0402100KFKEDHP - RESISTOR, POWER, 100K, 0.125W, 1%|R3, R4|0402|CRCW0402100KFKEDHP|2
-0805_RES||R5, R6, R7, R8, R9|0805|0805_RES|5
-U4_STATUS|TESTPOINT SCOPE GRABBER|TP1|TESTPOINT|TESTPOINT|1
-U1_HYS|TESTPOINT SCOPE GRABBER|TP2|TESTPOINT|TESTPOINT|1
-U1_PG|TESTPOINT SCOPE GRABBER|TP3|TESTPOINT|TESTPOINT|1
-CH_STATUS|TESTPOINT SCOPE GRABBER|TP4|TESTPOINT|TESTPOINT|1
-U1_EN|TESTPOINT SCOPE GRABBER|TP5|TESTPOINT|TESTPOINT|1
-U2_EN|TESTPOINT SCOPE GRABBER|TP6|TESTPOINT|TESTPOINT|1
-U2_PG|TESTPOINT SCOPE GRABBER|TP7|TESTPOINT|TESTPOINT|1
+Header 6X2|Header, 6-Pin, Dual row|P2|HDR2X6|Header 6X2|1
+FDC638P|MOSFET SSOT-6 P-CH -20V|Q1, Q2|FDC638P|FDC638P|2
+CRCW0402402KFKED|VISHAY DRALORIC - CRCW0402402KFKED - RESISTOR, 0402, 402K, 1%|R1|0402_RES|CRCW0402402KFKED|1
+GRM155R71C153KA01D|Meerlaagse keramische condensatoren MLCC - SMD/SMT 0402 0.015uF 16volts X7R 10%|R2|0402_CAP|GRM155R71C153KA01D|1
+CRCW0402100KFKEDHP|VISHAY DRALORIC - CRCW0402100KFKEDHP - RESISTOR, POWER, 100K, 0.125W, 1%|R3, R4|0402_RES|CRCW0402100KFKEDHP|2
+0805_RES||R5, R6, R7, R8, R9, R10, R11|0805_RES|0805_RES|7
+TESTPOINT|TESTPOINT SCOPE GRABBER|TP1, TP2, TP3, TP4, TP5, TP6, TP7|TESTPOINT|TESTPOINT|7
 TPS61230DRCT|TPS61230DRCT|U1|TPS61230DRCR|TPS61230DRCT|1
 TPS62152RGTT|TPS62152RGTT|U2|TPS62152RGTR|TPS62152RGTT|1
 MCP73831-2ATI/MC|Batterijbeheer Li-Ion/Li-Poly Charg Mgnt 4.2V Vreg out|U3|PQFN50P300X200X5_HS-9N|MCP73831-2ATI/MC|1
-LTC4412ES6#TRMPBF|IC OR CTRLR SRC SELECT TSOT23-6|U4||LTC4412ES6#TRMPBF|1
+LTC4412ES6#TRMPBF|IC OR CTRLR SRC SELECT TSOT23-6|U4|SOT95P280X110-6N|LTC4412ES6#TRMPBF|1

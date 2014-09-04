@@ -1,0 +1,18 @@
+Change Component DesignItemId : Designator=C3 Old DesignItemId=CL10A106MQ8NNNC New DesignItemId=GRM21BR61A106KE19L
+Change Component DesignItemId : Designator=C4 Old DesignItemId=CL10A106MQ8NNNC New DesignItemId=GRM21BR61A106KE19L
+Change Component Footprint: Designator=C3 Old Footprint=0603 New Footprint=0805_CAP
+Change Component Footprint: Designator=C4 Old Footprint=0603 New Footprint=0805_CAP
+Change Component Comment : Designator=C3 Old Comment=CL10A106MQ8NNNC New Comment=GRM21BR61A106KE19L
+Change Component Comment : Designator=C4 Old Comment=CL10A106MQ8NNNC New Comment=GRM21BR61A106KE19L
+Added Component: Designator=C9(0805_CAP)
+Added Component: Designator=U4(SOT95P280X110-6N)
+Added Pin To Net: NetName=VIN Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=VBAT Pin=U4-1
+Added Pin To Net: NetName=GND Pin=U4-2
+Added Pin To Net: NetName=GND Pin=U4-3
+Added Pin To Net: NetName=NetQ1_2 Pin=U4-4
+Added Pin To Net: NetName=NetQ2_2 Pin=U4-5
+Added Pin To Net: NetName=VSWO Pin=U4-6
+Added Member To Class: ClassName=OpenBLC_MCP73831 Member=Component C9 0805_CAP
+Added Member To Class: ClassName=OpenBLC_LTC4412 Member=Component U4 LTC4412ES6#TRMPBF

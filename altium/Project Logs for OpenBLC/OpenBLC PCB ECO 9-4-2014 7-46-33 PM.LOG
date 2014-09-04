@@ -1,0 +1,120 @@
+Removed Pin From Net: NetName=GND Pin=P2-5
+Removed Pin From Net: NetName=GND Pin=P2-6
+Removed Pin From Net: NetName=3.3VDC Pin=P2-7
+Removed Pin From Net: NetName=3.3VDC Pin=P2-8
+Removed Pin From Net: NetName=GND Pin=P2-9
+Removed Pin From Net: NetName=GND Pin=P2-10
+Removed Pin From Net: NetName=VBAT Pin=P2-12
+Removed Pin From Net: NetName=VBAT Pin=U1-9
+Removed Pin From Net: NetName=VBAT Pin=U2-13
+Change Component Footprint: Designator=R2 Old Footprint=0402 New Footprint=0402_CAP
+Change Component Footprint: Designator=R1 Old Footprint=0402 New Footprint=0402_RES
+Change Component Footprint: Designator=R3 Old Footprint=0402 New Footprint=0402_RES
+Change Component Footprint: Designator=R4 Old Footprint=0402 New Footprint=0402_RES
+Change Component Footprint: Designator=C2 Old Footprint=0603 New Footprint=0603_CAP
+Change Component Footprint: Designator=C6 Old Footprint=0603 New Footprint=0603_CAP
+Change Component Footprint: Designator=C1 Old Footprint=0805 New Footprint=0805_CAP
+Change Component Footprint: Designator=C5 Old Footprint=0805 New Footprint=0805_CAP
+Change Component Comment : Designator=P2 Old Comment=Interface Connector New Comment=Header 6X2
+Added Component: Designator=C7(0805_CAP)
+Added Component: Designator=C8(0805_CAP)
+Added Component: Designator=D1(0603 _DIODE_YE)
+Added Component: Designator=D2(0603 _DIODE_GR)
+Added Component: Designator=Q1(FDC638P)
+Added Component: Designator=Q2(FDC638P)
+Added Component: Designator=R5(0805_RES)
+Added Component: Designator=R6(0805_RES)
+Added Component: Designator=R7(0805_RES)
+Added Component: Designator=R8(0805_RES)
+Added Component: Designator=R9(0805_RES)
+Added Component: Designator=R10(0805_RES)
+Added Component: Designator=R11(0805_RES)
+Added Component: Designator=TP1(TESTPOINT)
+Added Component: Designator=TP2(TESTPOINT)
+Added Component: Designator=TP3(TESTPOINT)
+Added Component: Designator=TP4(TESTPOINT)
+Added Component: Designator=TP5(TESTPOINT)
+Added Component: Designator=TP6(TESTPOINT)
+Added Component: Designator=TP7(TESTPOINT)
+Added Component: Designator=U3(PQFN50P300X200X5_HS-9N)
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=VBAT Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=3.3VDC Pin=P2-5
+Added Pin To Net: NetName=3.3VDC Pin=P2-6
+Added Pin To Net: NetName=GND Pin=P2-8
+Added Pin To Net: NetName=VBAT Pin=Q1-3
+Added Pin To Net: NetName=VBAT Pin=Q2-3
+Added Pin To Net: NetName=VBAT Pin=R5-2
+Added Pin To Net: NetName=VBAT Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R9-2
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Pin To Net: NetName=VBAT Pin=R11-1
+Added Pin To Net: NetName=NetR4_1 Pin=TP7-1
+Added Pin To Net: NetName=GND Pin=U3-6
+Added Pin To Net: NetName=GND Pin=U3-9
+Change Net Name : Old Net Name=VBAT New Net Name=VSWO
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=D2-2
+Added Pin To Net: NetName=NetD1_1 Pin=R8-1
+Added Pin To Net: NetName=NetD1_1 Pin=U3-5
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=D2-1
+Added Pin To Net: NetName=NetD1_2 Pin=R7-2
+Added Pin To Net: NetName=NetD1_2 Pin=R10-1
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_2 Pin=R11-2
+Added Pin To Net: NetName=NetQ1_2 Pin=TP1-1
+Added Net: Name=NetQ1_2
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Net: Name=NetQ2_2
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=TP5-1
+Added Pin To Net: NetName=NetR5_1 Pin=U1-9
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=TP6-1
+Added Pin To Net: NetName=NetR6_1 Pin=U2-13
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=TP4-1
+Added Net: Name=NetR8_2
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_1 Pin=U3-8
+Added Net: Name=NetR9_1
+Added Pin To Net: NetName=NetTP2_1 Pin=TP2-1
+Added Pin To Net: NetName=NetTP2_1 Pin=U1-8
+Added Net: Name=NetTP2_1
+Added Pin To Net: NetName=NetTP3_1 Pin=TP3-1
+Added Pin To Net: NetName=NetTP3_1 Pin=U1-5
+Added Net: Name=NetTP3_1
+Added Pin To Net: NetName=VBAT Pin=C7-1
+Added Pin To Net: NetName=VBAT Pin=P2-12
+Added Pin To Net: NetName=VBAT Pin=Q2-1
+Added Pin To Net: NetName=VBAT Pin=Q2-1
+Added Pin To Net: NetName=VBAT Pin=Q2-1
+Added Pin To Net: NetName=VBAT Pin=Q2-1
+Added Pin To Net: NetName=VBAT Pin=U3-3
+Added Pin To Net: NetName=VBAT Pin=U3-4
+Added Net: Name=VBAT
+Added Pin To Net: NetName=VIN Pin=P2-9
+Added Pin To Net: NetName=VIN Pin=P2-10
+Added Pin To Net: NetName=VIN Pin=Q1-1
+Added Pin To Net: NetName=VIN Pin=Q1-1
+Added Pin To Net: NetName=VIN Pin=Q1-1
+Added Pin To Net: NetName=VIN Pin=Q1-1
+Added Pin To Net: NetName=VIN Pin=R7-1
+Added Pin To Net: NetName=VIN Pin=U3-1
+Added Pin To Net: NetName=VIN Pin=U3-2
+Added Net: Name=VIN
+Added Class: Name=OpenBLC_LTC4412
+Added Class: Name=OpenBLC_MCP73831
+Added Member To Class: ClassName=OpenBLC_TPS61230 Member=Component R5 0805_RES
+Added Member To Class: ClassName=OpenBLC_TPS62152 Member=Component R6 0805_RES
+Added Member To Class: ClassName=OpenBLC_TPS61230 Member=Component TP2 TESTPOINT
+Added Member To Class: ClassName=OpenBLC_TPS61230 Member=Component TP3 TESTPOINT
+Added Member To Class: ClassName=OpenBLC_TPS61230 Member=Component TP5 TESTPOINT
+Added Member To Class: ClassName=OpenBLC_TPS62152 Member=Component TP6 TESTPOINT
+Added Member To Class: ClassName=OpenBLC_TPS62152 Member=Component TP7 TESTPOINT
