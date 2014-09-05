@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=5VDC Pin=P2-3
+Removed Pin From Net: NetName=5VDC Pin=P2-4
+Removed Pin From Net: NetName=3.3VDC Pin=P2-5
+Removed Pin From Net: NetName=3.3VDC Pin=P2-6
+Added Pin To Net: NetName=3.3VDC Pin=P2-3
+Added Pin To Net: NetName=3.3VDC Pin=P2-4
+Added Pin To Net: NetName=5VDC Pin=P2-5
+Added Pin To Net: NetName=5VDC Pin=P2-6

@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=TP1 Old Footprint=TESTPOINT New Footprint=Via_TP
+Added Component: Designator=P1(Nokia_3P_batt_conn)
+Added Pin To Net: NetName=VBAT Pin=P1-1
+Added Pin To Net: NetName=NetP1_2 Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-3
+Added Member To Class: ClassName=OpenBLC_CONNECTIONS Member=Component P1 Nokia 3pin pogo connector

@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [OpenBLC.PrjPcb]
+   Generated File[OpenBLC.TXT]
+   Generated File[OpenBLC.LDP]
+   Generated File[OpenBLC.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 5:52:14 PM On 9/5/2014
