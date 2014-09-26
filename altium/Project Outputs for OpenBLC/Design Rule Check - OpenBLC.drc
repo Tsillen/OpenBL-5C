@@ -1,0 +1,323 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Spikee\Documents\GitHub\OpenBL-5C\altium\OpenBLC.PcbDoc
+Date     : 9/26/2014
+Time     : 2:26:29 PM
+
+Processing Rule : Rule
+Rule Violations :0
+
+Processing Rule : Silk primitive without silk layer
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+   Violation between Net Antennae: Via (889.665mil,-789.272mil) Top Layer to Bottom Layer
+   Violation between Net Antennae: Via (814.862mil,-639.665mil) Top Layer to Bottom Layer
+   Violation between Net Antennae: Via (850.295mil,-643.602mil) Top Layer to Bottom Layer
+   Violation between Net Antennae: Via (873.918mil,-671.162mil) Top Layer to Bottom Layer
+   Violation between Net Antennae: Via (873.918mil,-714.469mil) Top Layer to Bottom Layer
+   Violation between Net Antennae: Via (873.918mil,-757.776mil) Top Layer to Bottom Layer
+   Violation between Net Antennae: Via (1110.138mil,-820.768mil) Top Layer to Bottom Layer
+   Violation between Net Antennae: Via (1070.768mil,-820.768mil) Top Layer to Bottom Layer
+   Violation between Net Antennae: Via (1031.398mil,-820.768mil) Top Layer to Bottom Layer
+   Violation between Net Antennae: Via (992.028mil,-820.768mil) Top Layer to Bottom Layer
+   Violation between Net Antennae: Via (952.658mil,-820.768mil) Top Layer to Bottom Layer
+   Violation between Net Antennae: Via (913.288mil,-820.768mil) Top Layer to Bottom Layer
+   Violation between Net Antennae: Via (873.918mil,-820.768mil) Top Layer to Bottom Layer
+   Violation between Net Antennae: Via (1149.508mil,-820.768mil) Top Layer to Bottom Layer
+   Violation between Net Antennae: Via (1188.878mil,-820.768mil) Top Layer to Bottom Layer
+   Violation between Net Antennae: Via (1228.248mil,-820.768mil) Top Layer to Bottom Layer
+   Violation between Net Antennae: Via (1267.618mil,-820.768mil) Top Layer to Bottom Layer
+   Violation between Net Antennae: Via (1306.988mil,-820.768mil) Top Layer to Bottom Layer
+   Violation between Net Antennae: Via (1346.358mil,-820.768mil) Top Layer to Bottom Layer
+   Violation between Net Antennae: Via (1385.728mil,-820.768mil) Top Layer to Bottom Layer
+   Violation between Net Antennae: Via (1425.099mil,-820.768mil) Top Layer to Bottom Layer
+   Violation between Net Antennae: Via (673.13mil,-33.366mil) Top Layer to Bottom Layer
+   Violation between Net Antennae: Via (1499.902mil,-72.736mil) Top Layer to Bottom Layer
+   Violation between Net Antennae: Via (1480.217mil,-53.051mil) Top Layer to Bottom Layer
+   Violation between Net Antennae: Via (1460.532mil,-33.366mil) Top Layer to Bottom Layer
+   Violation between Net Antennae: Via (1421.162mil,-33.366mil) Top Layer to Bottom Layer
+   Violation between Net Antennae: Via (1381.792mil,-33.366mil) Top Layer to Bottom Layer
+   Violation between Net Antennae: Via (1342.421mil,-33.366mil) Top Layer to Bottom Layer
+   Violation between Net Antennae: Via (1303.051mil,-33.366mil) Top Layer to Bottom Layer
+   Violation between Net Antennae: Via (1263.681mil,-33.366mil) Top Layer to Bottom Layer
+   Violation between Net Antennae: Via (1224.311mil,-33.366mil) Top Layer to Bottom Layer
+   Violation between Net Antennae: Via (1184.941mil,-33.366mil) Top Layer to Bottom Layer
+   Violation between Net Antennae: Via (1145.571mil,-33.366mil) Top Layer to Bottom Layer
+   Violation between Net Antennae: Via (1106.201mil,-33.366mil) Top Layer to Bottom Layer
+   Violation between Net Antennae: Via (1066.831mil,-33.366mil) Top Layer to Bottom Layer
+   Violation between Net Antennae: Via (1027.461mil,-33.366mil) Top Layer to Bottom Layer
+   Violation between Net Antennae: Via (988.091mil,-33.366mil) Top Layer to Bottom Layer
+   Violation between Net Antennae: Via (948.721mil,-33.366mil) Top Layer to Bottom Layer
+   Violation between Net Antennae: Via (909.351mil,-33.366mil) Top Layer to Bottom Layer
+   Violation between Net Antennae: Via (869.981mil,-33.366mil) Top Layer to Bottom Layer
+   Violation between Net Antennae: Via (830.61mil,-33.366mil) Top Layer to Bottom Layer
+   Violation between Net Antennae: Via (791.24mil,-33.366mil) Top Layer to Bottom Layer
+   Violation between Net Antennae: Via (751.87mil,-33.366mil) Top Layer to Bottom Layer
+   Violation between Net Antennae: Via (712.5mil,-33.366mil) Top Layer to Bottom Layer
+   Violation between Net Antennae: Via (614.075mil,-856.201mil) Top Layer to Bottom Layer
+   Violation between Net Antennae: Via (614.075mil,-891.634mil) Top Layer to Bottom Layer
+   Violation between Net Antennae: Via (43.209mil,-647.539mil) Top Layer to Bottom Layer
+Rule Violations :47
+
+Processing Rule : Silk to Silk (Clearance=6mil) (All),(All)
+   Violation between Text "15" (1657.067mil,-891.792mil)  Top Overlay and 
+                     Track (1627.067mil,-881.792mil)(1827.067mil,-881.792mil)  Top Overlay
+   Violation between Text "16" (1757.067mil,-891.792mil)  Top Overlay and 
+                     Track (1627.067mil,-881.792mil)(1827.067mil,-881.792mil)  Top Overlay
+Rule Violations :2
+
+Processing Rule : Silk To Solder Mask (Clearance=6mil) (IsPad),(All)
+   Violation between Track (255.807mil,-722.343mil)(299.114mil,-722.343mil)  Top Overlay and 
+                     Pad P1-1(216.437mil,-722.343mil)  Top Layer
+   Violation between Track (255.807mil,-722.343mil)(299.114mil,-722.343mil)  Top Overlay and 
+                     Pad P1-2(338.484mil,-722.343mil)  Top Layer
+   Violation between Track (377.854mil,-722.343mil)(421.162mil,-722.343mil)  Top Overlay and 
+                     Pad P1-2(338.484mil,-722.343mil)  Top Layer
+   Violation between Track (377.854mil,-722.343mil)(421.162mil,-722.343mil)  Top Overlay and 
+                     Pad P1-3(460.532mil,-722.343mil)  Top Layer
+   Violation between Track (436.91mil,-982.185mil)(515.65mil,-982.185mil)  Top Overlay and 
+                     Pad P1-4(399.508mil,-962.5mil)  Top Layer
+   Violation between Text "TP2" (1259.842mil,-108.268mil)  Top Overlay and 
+                     Pad C2-2(1358.528mil,-86.515mil)  Top Layer
+   Violation between Text "3V3" (1446.85mil,-265.748mil)  Top Overlay and 
+                     Pad C3-2(1441.146mil,-267.551mil)  Top Layer
+   Violation between Text "GND" (1446.85mil,-167.323mil)  Top Overlay and 
+                     Pad R2-2(1461.583mil,-181.003mil)  Top Layer
+   Violation between Track (137.008mil,-62.677mil)(137.264mil,-62.421mil)  Top Overlay and 
+                     Pad D1-2(129.764mil,-92.421mil)  Top Layer
+   Violation between Track (67.264mil,-240.532mil)(67.52mil,-240.276mil)  Top Overlay and 
+                     Pad D2-2(74.764mil,-210.532mil)  Top Layer
+   Violation between Text "TP4" (885.827mil,-915.354mil)  Top Overlay and 
+                     Pad R8-2(866.11mil,-899.508mil)  Top Layer
+   Violation between Text "OpenBLC" (1309.055mil,-196.85mil)  Bottom Overlay and 
+                     Pad TP2-1(1331.075mil,-165.255mil)  Multi-Layer
+   Violation between Text "TP4" (885.827mil,-915.354mil)  Top Overlay and 
+                     Pad TP4-1(940.847mil,-875.886mil)  Multi-Layer
+   Violation between Text "TP7" (561.024mil,-364.173mil)  Top Overlay and 
+                     Pad TP7-1(655.879mil,-352.263mil)  Multi-Layer
+   Violation between Text "Open Source Nokia BL" (1309.055mil,-383.858mil)  Bottom Overlay and 
+                     Pad TP7-1(655.879mil,-352.263mil)  Multi-Layer
+Rule Violations :15
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=6mil) (All),(All)
+   Violation between Pad R5-2(1118.477mil,-200.755mil)  Top Layer and 
+                     Pad C1-1(1192.229mil,-210.858mil)  Top Layer
+   Violation between Pad U2-11(833.103mil,-242.027mil)  Top Layer and 
+                     Pad C4-1(887.316mil,-226.743mil)  Top Layer
+   Violation between Pad U2-10(833.103mil,-261.712mil)  Top Layer and 
+                     Pad C4-1(887.316mil,-226.743mil)  Top Layer
+   Violation between Pad U2-12(833.103mil,-222.342mil)  Top Layer and 
+                     Pad C4-1(887.316mil,-226.743mil)  Top Layer
+   Violation between Pad R2-1(1428.583mil,-181.003mil)  Top Layer and 
+                     Pad R1-1(1402.528mil,-141.633mil)  Top Layer
+   Violation between Pad TP2-1(1331.075mil,-165.255mil)  Multi-Layer and 
+                     Pad R1-2(1369.528mil,-141.633mil)  Top Layer
+   Violation between Pad R11-1(306.988mil,-383.827mil)  Top Layer and 
+                     Pad C8-1(381.791mil,-383.827mil)  Top Layer
+   Violation between Pad R11-2(306.988mil,-312.827mil)  Top Layer and 
+                     Pad C8-2(381.791mil,-312.827mil)  Top Layer
+   Violation between Pad U4-5(358.169mil,-511.713mil)  Top Layer and 
+                     Pad U4-6(320.768mil,-511.713mil)  Top Layer
+   Violation between Pad U4-4(395.571mil,-511.713mil)  Top Layer and 
+                     Pad U4-5(358.169mil,-511.713mil)  Top Layer
+   Violation between Pad U4-2(358.169mil,-618.012mil)  Top Layer and 
+                     Pad U4-3(395.571mil,-618.012mil)  Top Layer
+   Violation between Pad U4-1(320.768mil,-618.012mil)  Top Layer and 
+                     Pad U4-2(358.169mil,-618.012mil)  Top Layer
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Region (0 hole(s)) Top Solder
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Region (0 hole(s)) Top Solder
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Region (0 hole(s)) Top Solder
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Region (0 hole(s)) Top Solder
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Region (0 hole(s)) Top Solder
+   Violation between Region (0 hole(s)) Top Solder and 
+                     Region (0 hole(s)) Top Solder
+Rule Violations :18
+
+Processing Rule : Hole To Hole Clearance (Gap=17.716mil) (All),(All)
+   Violation between Via (1606.201mil,-529.429mil) Top Layer to Bottom Layer and 
+                     Via (1606.201mil,-505.807mil) Top Layer to Bottom Layer
+   Violation between Via (1606.201mil,-553.051mil) Top Layer to Bottom Layer and 
+                     Via (1606.201mil,-529.429mil) Top Layer to Bottom Layer
+   Violation between Via (1531.398mil,-529.429mil) Top Layer to Bottom Layer and 
+                     Via (1531.398mil,-505.807mil) Top Layer to Bottom Layer
+   Violation between Via (1531.398mil,-553.051mil) Top Layer to Bottom Layer and 
+                     Via (1531.398mil,-529.429mil) Top Layer to Bottom Layer
+   Violation between Via (1570.768mil,-529.429mil) Top Layer to Bottom Layer and 
+                     Via (1570.768mil,-505.807mil) Top Layer to Bottom Layer
+   Violation between Via (1570.768mil,-553.051mil) Top Layer to Bottom Layer and 
+                     Via (1570.768mil,-529.429mil) Top Layer to Bottom Layer
+   Violation between Via (1480.217mil,-53.051mil) Top Layer to Bottom Layer and 
+                     Via (1499.902mil,-72.736mil) Top Layer to Bottom Layer
+   Violation between Via (1460.532mil,-33.366mil) Top Layer to Bottom Layer and 
+                     Via (1480.217mil,-53.051mil) Top Layer to Bottom Layer
+   Violation between Via (1606.201mil,-230.217mil) Top Layer to Bottom Layer and 
+                     Via (1606.201mil,-206.595mil) Top Layer to Bottom Layer
+   Violation between Via (1606.201mil,-253.839mil) Top Layer to Bottom Layer and 
+                     Via (1606.201mil,-230.217mil) Top Layer to Bottom Layer
+   Violation between Via (1570.768mil,-230.217mil) Top Layer to Bottom Layer and 
+                     Via (1570.768mil,-206.595mil) Top Layer to Bottom Layer
+   Violation between Via (1570.768mil,-253.839mil) Top Layer to Bottom Layer and 
+                     Via (1570.768mil,-230.217mil) Top Layer to Bottom Layer
+   Violation between Via (1570.768mil,-336.516mil) Top Layer to Bottom Layer and 
+                     Via (1570.768mil,-360.138mil) Top Layer to Bottom Layer
+   Violation between Via (1570.768mil,-312.894mil) Top Layer to Bottom Layer and 
+                     Via (1570.768mil,-336.516mil) Top Layer to Bottom Layer
+   Violation between Via (1531.398mil,-336.516mil) Top Layer to Bottom Layer and 
+                     Via (1531.398mil,-360.138mil) Top Layer to Bottom Layer
+   Violation between Via (1531.398mil,-312.894mil) Top Layer to Bottom Layer and 
+                     Via (1531.398mil,-336.516mil) Top Layer to Bottom Layer
+   Violation between Via (1606.201mil,-336.516mil) Top Layer to Bottom Layer and 
+                     Via (1606.201mil,-360.138mil) Top Layer to Bottom Layer
+   Violation between Via (1606.201mil,-312.894mil) Top Layer to Bottom Layer and 
+                     Via (1606.201mil,-336.516mil) Top Layer to Bottom Layer
+   Violation between Via (1240.059mil,-572.736mil) Top Layer to Bottom Layer and 
+                     Via (1240.059mil,-549.114mil) Top Layer to Bottom Layer
+   Violation between Via (1240.059mil,-596.358mil) Top Layer to Bottom Layer and 
+                     Via (1240.059mil,-572.736mil) Top Layer to Bottom Layer
+   Violation between Via (940.847mil,-493.996mil) Top Layer to Bottom Layer and 
+                     Via (964.469mil,-493.996mil) Top Layer to Bottom Layer
+   Violation between Via (917.225mil,-493.996mil) Top Layer to Bottom Layer and 
+                     Via (940.847mil,-493.996mil) Top Layer to Bottom Layer
+   Violation between Via (452.658mil,-667.225mil) Top Layer to Bottom Layer and 
+                     Via (429.036mil,-667.225mil) Top Layer to Bottom Layer
+   Violation between Via (476.28mil,-667.225mil) Top Layer to Bottom Layer and 
+                     Via (452.658mil,-667.225mil) Top Layer to Bottom Layer
+   Violation between Via (409.351mil,-722.343mil) Top Layer to Bottom Layer and 
+                     Via (409.351mil,-698.721mil) Top Layer to Bottom Layer
+   Violation between Via (409.351mil,-745.965mil) Top Layer to Bottom Layer and 
+                     Via (409.351mil,-722.343mil) Top Layer to Bottom Layer
+   Violation between Via (161.319mil,-722.343mil) Top Layer to Bottom Layer and 
+                     Via (161.319mil,-698.721mil) Top Layer to Bottom Layer
+   Violation between Via (161.319mil,-745.965mil) Top Layer to Bottom Layer and 
+                     Via (161.319mil,-722.343mil) Top Layer to Bottom Layer
+   Violation between Via (220.374mil,-675.099mil) Top Layer to Bottom Layer and 
+                     Via (243.996mil,-675.099mil) Top Layer to Bottom Layer
+   Violation between Via (196.752mil,-675.099mil) Top Layer to Bottom Layer and 
+                     Via (220.374mil,-675.099mil) Top Layer to Bottom Layer
+   Violation between Via (216.437mil,-773.524mil) Top Layer to Bottom Layer and 
+                     Via (240.059mil,-773.524mil) Top Layer to Bottom Layer
+   Violation between Via (192.815mil,-773.524mil) Top Layer to Bottom Layer and 
+                     Via (216.437mil,-773.524mil) Top Layer to Bottom Layer
+   Violation between Via (456.595mil,-769.587mil) Top Layer to Bottom Layer and 
+                     Via (480.217mil,-769.587mil) Top Layer to Bottom Layer
+   Violation between Via (432.973mil,-769.587mil) Top Layer to Bottom Layer and 
+                     Via (456.595mil,-769.587mil) Top Layer to Bottom Layer
+   Violation between Via (732.185mil,-816.831mil) Top Layer to Bottom Layer and 
+                     Via (755.807mil,-816.831mil) Top Layer to Bottom Layer
+   Violation between Via (708.563mil,-816.831mil) Top Layer to Bottom Layer and 
+                     Via (732.185mil,-816.831mil) Top Layer to Bottom Layer
+   Violation between Via (732.185mil,-785.335mil) Top Layer to Bottom Layer and 
+                     Via (755.807mil,-785.335mil) Top Layer to Bottom Layer
+   Violation between Via (708.563mil,-785.335mil) Top Layer to Bottom Layer and 
+                     Via (732.185mil,-785.335mil) Top Layer to Bottom Layer
+   Violation between Via (728.248mil,-860.138mil) Top Layer to Bottom Layer and 
+                     Via (751.87mil,-860.138mil) Top Layer to Bottom Layer
+   Violation between Via (704.626mil,-860.138mil) Top Layer to Bottom Layer and 
+                     Via (728.248mil,-860.138mil) Top Layer to Bottom Layer
+   Violation between Via (724.311mil,-745.965mil) Top Layer to Bottom Layer and 
+                     Via (747.933mil,-745.965mil) Top Layer to Bottom Layer
+   Violation between Via (700.689mil,-745.965mil) Top Layer to Bottom Layer and 
+                     Via (724.311mil,-745.965mil) Top Layer to Bottom Layer
+   Violation between Via (637.697mil,-761.713mil) Top Layer to Bottom Layer and 
+                     Via (637.697mil,-785.335mil) Top Layer to Bottom Layer
+   Violation between Via (574.705mil,-588.484mil) Top Layer to Bottom Layer and 
+                     Via (574.705mil,-612.106mil) Top Layer to Bottom Layer
+   Violation between Via (574.705mil,-564.862mil) Top Layer to Bottom Layer and 
+                     Via (574.705mil,-588.484mil) Top Layer to Bottom Layer
+   Violation between Via (574.705mil,-702.658mil) Top Layer to Bottom Layer and 
+                     Via (574.705mil,-726.28mil) Top Layer to Bottom Layer
+   Violation between Via (574.705mil,-679.036mil) Top Layer to Bottom Layer and 
+                     Via (574.705mil,-702.658mil) Top Layer to Bottom Layer
+   Violation between Via (692.815mil,-123.918mil) Top Layer to Bottom Layer and 
+                     Via (692.815mil,-100.296mil) Top Layer to Bottom Layer
+   Violation between Via (692.815mil,-147.54mil) Top Layer to Bottom Layer and 
+                     Via (692.815mil,-123.918mil) Top Layer to Bottom Layer
+   Violation between Via (586.516mil,-92.421mil) Top Layer to Bottom Layer and 
+                     Via (610.138mil,-92.421mil) Top Layer to Bottom Layer
+   Violation between Via (562.894mil,-92.421mil) Top Layer to Bottom Layer and 
+                     Via (586.516mil,-92.421mil) Top Layer to Bottom Layer
+   Violation between Via (582.579mil,-226.28mil) Top Layer to Bottom Layer and 
+                     Via (606.201mil,-226.28mil) Top Layer to Bottom Layer
+   Violation between Via (558.957mil,-226.28mil) Top Layer to Bottom Layer and 
+                     Via (582.579mil,-226.28mil) Top Layer to Bottom Layer
+   Violation between Via (1440.847mil,-371.949mil) Top Layer to Bottom Layer and 
+                     Via (1464.469mil,-371.949mil) Top Layer to Bottom Layer
+   Violation between Via (1417.225mil,-371.949mil) Top Layer to Bottom Layer and 
+                     Via (1440.847mil,-371.949mil) Top Layer to Bottom Layer
+   Violation between Via (1295.177mil,-391.634mil) Top Layer to Bottom Layer and 
+                     Via (1318.799mil,-391.634mil) Top Layer to Bottom Layer
+   Violation between Via (1271.555mil,-391.634mil) Top Layer to Bottom Layer and 
+                     Via (1295.177mil,-391.634mil) Top Layer to Bottom Layer
+   Violation between Via (1299.114mil,-493.996mil) Top Layer to Bottom Layer and 
+                     Via (1275.492mil,-493.996mil) Top Layer to Bottom Layer
+   Violation between Via (1322.736mil,-493.996mil) Top Layer to Bottom Layer and 
+                     Via (1299.114mil,-493.996mil) Top Layer to Bottom Layer
+   Violation between Via (1047.146mil,-242.028mil) Top Layer to Bottom Layer and 
+                     Via (1070.768mil,-242.028mil) Top Layer to Bottom Layer
+   Violation between Via (1023.524mil,-242.028mil) Top Layer to Bottom Layer and 
+                     Via (1047.146mil,-242.028mil) Top Layer to Bottom Layer
+   Violation between Via (885.729mil,-576.673mil) Top Layer to Bottom Layer and 
+                     Via (885.729mil,-600.295mil) Top Layer to Bottom Layer
+   Violation between Via (885.729mil,-553.051mil) Top Layer to Bottom Layer and 
+                     Via (885.729mil,-576.673mil) Top Layer to Bottom Layer
+   Violation between Via (330.61mil,-411.319mil) Top Layer to Bottom Layer and 
+                     Via (358.17mil,-411.319mil) Top Layer to Bottom Layer
+   Violation between Via (381.791mil,-411.319mil) Top Layer to Bottom Layer and 
+                     Via (358.17mil,-411.319mil) Top Layer to Bottom Layer
+   Violation between Via (405.413mil,-411.319mil) Top Layer to Bottom Layer and 
+                     Via (381.791mil,-411.319mil) Top Layer to Bottom Layer
+   Violation between Via (306.988mil,-411.319mil) Top Layer to Bottom Layer and 
+                     Via (283.366mil,-411.319mil) Top Layer to Bottom Layer
+   Violation between Via (330.61mil,-411.319mil) Top Layer to Bottom Layer and 
+                     Via (306.988mil,-411.319mil) Top Layer to Bottom Layer
+   Violation between Via (523.524mil,-454.626mil) Top Layer to Bottom Layer and 
+                     Via (499.902mil,-454.626mil) Top Layer to Bottom Layer
+   Violation between Via (547.146mil,-454.626mil) Top Layer to Bottom Layer and 
+                     Via (523.524mil,-454.626mil) Top Layer to Bottom Layer
+   Violation between Via (322.736mil,-454.626mil) Top Layer to Bottom Layer and 
+                     Via (346.358mil,-454.626mil) Top Layer to Bottom Layer
+   Violation between Via (299.114mil,-454.626mil) Top Layer to Bottom Layer and 
+                     Via (322.736mil,-454.626mil) Top Layer to Bottom Layer
+   Violation between Via (90.453mil,-474.311mil) Top Layer to Bottom Layer and 
+                     Via (114.075mil,-474.311mil) Top Layer to Bottom Layer
+   Violation between Via (90.453mil,-474.311mil) Top Layer to Bottom Layer and 
+                     Via (66.831mil,-474.311mil) Top Layer to Bottom Layer
+   Violation between Via (795.642mil,-263.621mil) Top Layer to Bottom Layer and 
+                     Via (795.642mil,-240.058mil) Top Layer to Bottom Layer
+   Violation between Via (772.02mil,-240.058mil) Top Layer to Bottom Layer and 
+                     Via (795.642mil,-240.058mil) Top Layer to Bottom Layer
+   Violation between Via (772.079mil,-263.68mil) Top Layer to Bottom Layer and 
+                     Via (772.02mil,-240.058mil) Top Layer to Bottom Layer
+   Violation between Via (795.642mil,-263.621mil) Top Layer to Bottom Layer and 
+                     Via (772.079mil,-263.68mil) Top Layer to Bottom Layer
+Rule Violations :78
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (Disabled)(All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=11.811mil) (Max=248.031mil) (All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=11.811mil) (Conductor Width=11.811mil) (Air Gap=11.811mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6mil) (Max=393.701mil) (Preferred=8mil) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+Rule Violations :0
+
+
+Violations Detected : 160
+Time Elapsed        : 00:00:01
